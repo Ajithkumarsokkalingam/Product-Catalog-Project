@@ -1,0 +1,26 @@
+.App {
+    max-width: 800px;
+    
+    margin: auto;
+    padding: 20px;
+    background-color:pink;
+  }
+  
+  select {
+    margin: 20px 0;
+  }
+  
+  input {
+    margin-bottom: 20px;
+    padding: 8px;
+    width: 100%;
+  }
+  
+  h3 {
+    margin: 10px 0;
+    color:red;
+  }
+  
+  .error-notification {
+    color: red;
+  }  
